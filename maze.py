@@ -11,7 +11,7 @@ money = mixer.Sound('money.ogg')
 window = display.set_mode((1300,700))
 display.set_caption('Лабиринт')
 
-#задай фон сцены
+#задай фон сцены f[f[f[f[
 backgroung = transform.scale(
     image.load('background1.jpg'),
     (1300,700)
